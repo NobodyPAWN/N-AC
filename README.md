@@ -8,8 +8,8 @@ Anyone have permission to use THIS anticheat in any time until i ban it :)
   * __BAN__
 - You can easly toggle it with command ( __/acheat__ )
 ## ToDo List
-[ ]  SpeedHack Detection
-[ ] WeaponHack Detecion
-[ ] HealthHack Detection
-[ ] ArmorHack Detection
-[ ] AirBrk Detection
+- [ ]  SpeedHack Detection
+- [ ] WeaponHack Detecion
+- [ ] HealthHack Detection
+- [ ] ArmorHack Detection
+- [ ] AirBrk Detection
